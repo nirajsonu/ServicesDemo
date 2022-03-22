@@ -2,11 +2,11 @@
 This project is helpful to learn services concepts
 
 <b>Types of services</b>
-1)Schedules service.
-Replacement of AlarmManager:it is time specific not condition specific 
+1)Schedules service.<br>
+<br>Replacement of AlarmManager:it is time specific not condition specific 
 
-Sync data with server only when connection to wifi
-Start downloading the file only when device plugged in.
+<br>Sync data with server only when connection to wifi
+<br>Start downloading the file only when device plugged in.
 
 
 2)Started Service.
