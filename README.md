@@ -1,7 +1,7 @@
 # ServicesDemo
 This project is helpful to learn services concepts
 
-<b>Types of services</b>
+<b>Types of services</b><br>
 1)Schedules service.<br>
 <br>Replacement of AlarmManager:it is time specific not condition specific 
 
