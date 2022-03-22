@@ -2,27 +2,27 @@
 This project is helpful to learn services concepts
 
 <b>Types of services</b><br>
-1)Schedules service.<br>
+1) Schedules service.<br>
 <br>Replacement of AlarmManager:it is time specific not condition specific 
 
 <br>Sync data with server only when connection to wifi
 <br>Start downloading the file only when device plugged in.
 
 
-2)Started Service.
+2) Started Service.
 it is started from android components(Activity/Receiver/Provider/Service)
 startservice()
 stopservice()
 stopself()
 
 
-3)Bounded Service.
+3) Bounded Service.
 it is a type of startservice 
 bindService()
 As per the android component destroyed then service will destroyed.
 
 
-4)Intent Service.
+4) Intent Service.
 Runs on its seperate Background Thread 
 Destroyed when the task finishes
 Broadcast receiver is used to communicate with UI.
